@@ -1,2 +1,2 @@
-# zymology
-A page dedicated to document various fermentations
+# Zymology
+A page dedicated to documenting various fermentations
